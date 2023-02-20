@@ -1,11 +1,16 @@
 _repo: The-farm-and-the-woodlot_69895
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69895-h/images/cover.jpg
 creator:
   author:
     agent_name: Barton, J. E.
     gutenberg_agent_id: '55482'
     url: http://www.gutenberg.org/2009/agents/55482
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69895#The-farm-and-the-woodlot
 gutenberg_issued: '2023-01-28'
 identifiers:
   gutenberg: '69895'
